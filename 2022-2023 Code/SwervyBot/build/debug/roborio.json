@@ -1,0 +1,9 @@
+[
+  {
+    "type": "java",
+    "name": "frcJava",
+    "port": 8349,
+    "target": "10.66.90.2",
+    "project": "SwervyBot"
+  }
+]

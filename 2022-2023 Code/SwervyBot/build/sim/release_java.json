@@ -1,0 +1,21 @@
+[
+  {
+    "type": "java",
+    "name": "jar (in project SwervyBot)",
+    "extensions": [
+      {
+        "name": "Sim GUI",
+        "libName": "C:\\Robotics_2023\\95SwerveCodeTest\\SwervyBot\\build\\jni\\release\\halsim_gui.dll",
+        "defaultEnabled": true
+      },
+      {
+        "name": "Use Real DriverStation",
+        "libName": "C:\\Robotics_2023\\95SwerveCodeTest\\SwervyBot\\build\\jni\\release\\halsim_ds_socket.dll",
+        "defaultEnabled": false
+      }
+    ],
+    "environment": {},
+    "libraryDir": "C:\\Robotics_2023\\95SwerveCodeTest\\SwervyBot\\build\\jni\\release",
+    "mainClassName": "frc.robot.Main"
+  }
+]
