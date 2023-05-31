@@ -1,0 +1,21 @@
+[
+  {
+    "type": "java",
+    "name": "jar (in project BaseBot)",
+    "extensions": [
+      {
+        "name": "Sim GUI",
+        "libName": "C:\\Robotics_2023\\BaseCode\\BaseBot\\build\\jni\\release\\halsim_gui.dll",
+        "defaultEnabled": true
+      },
+      {
+        "name": "Use Real DriverStation",
+        "libName": "C:\\Robotics_2023\\BaseCode\\BaseBot\\build\\jni\\release\\halsim_ds_socket.dll",
+        "defaultEnabled": false
+      }
+    ],
+    "environment": {},
+    "libraryDir": "C:\\Robotics_2023\\BaseCode\\BaseBot\\build\\jni\\release",
+    "mainClassName": "frc.robot.Main"
+  }
+]
